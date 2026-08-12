@@ -1,0 +1,10 @@
+com\slt\backend\controller\AuthControllerTest.class
+com\slt\backend\repository\UserRepositoryTest.class
+com\slt\backend\repository\IncomeRepositoryTest.class
+com\slt\backend\BackendApplicationTests.class
+com\slt\backend\repository\ExpenseRepositoryTest.class
+com\slt\backend\service\ExpenseServiceTest.class
+com\slt\backend\service\DashboardServiceTest.class
+com\slt\backend\service\IncomeServiceTest.class
+com\slt\backend\controller\ExpenseControllerTest.class
+com\slt\backend\service\AuthServiceTest.class
