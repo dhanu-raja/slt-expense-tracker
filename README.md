@@ -1,26 +1,3 @@
-# SLT Expense Tracker
-
-A full-stack web application built for tracking daily expenses and income. The system features a modern, responsive UI and a robust backend API for managing transactions and aggregating data.
-
-## Technologies Used
-
-- **Backend:** Java 11+, Spring Boot 3.2, Spring Data JPA, Spring Security (JWT), H2 Database / MySQL
-- **Frontend:** React 19, Vite, TailwindCSS 4, Zustand, React Hook Form, Recharts, Lucide React
-- **Testing:** JUnit 5, Mockito, Vitest, React Testing Library
-- **Deployment:** Docker, Docker Compose
-
----
-
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-- **Java 17+** (or Java 21/23 which was tested)
-- **Node.js 18+** (for running the Vite frontend)
-- **Maven** (optional, as the Maven wrapper `mvnw` is included)
-- **Docker & Docker Compose** (if running via Docker)
-- **MySQL** (if running the backend locally without Docker and you want persistence)
-
----
 
 ## Running the Project Locally
 
