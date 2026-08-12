@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Build artifacts
+frontend/dist/
+frontend/dist-ssr/
+backend/target/
+*.class
+
+# Testing
+coverage/
+backend/target/surefire-reports/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
